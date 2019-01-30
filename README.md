@@ -1,2 +1,0 @@
-# Estudos
-Capitulo 1
