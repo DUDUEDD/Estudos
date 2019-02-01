@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+.img-logo{
+    margin-right: 180px;
+    margin-left: -220px;
+}
+.margem-top-30{
+    margin-top: 30px;
+}
+
+.margem-top-10{
+    margin-top: 10px;
+}
+
+.corpo {
+    display: block;
+    position: relative;
+    width: 40%;
+    height: 100%;
+}
+.centralizar_logo{
+    right: 20%;
+}
+.centralizar_input{
+    display: block;
+    position: relative;
+    left: 12%;
+    bottom: 60%;
+    width: 50%;
+    height: 1%;
+}
+
+.titulo_erro{
+    font-weight: bolder;
+    color: red;
+}
+
+.erro{
+    display: block;
+    position: absolute;
+    left: 3%;
+    width: fit-content;
+    top: 6%;
+    text-align: center;
+}
+
+.troca{
+    color: black;
+    margin: 10px;
+}
